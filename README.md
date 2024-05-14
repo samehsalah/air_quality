@@ -16,5 +16,4 @@ The datasets contain measurements of various pollutants, recorded at two monitor
 - **Cambridge Roadside**: Located in an urban setting, this station captures data relevant to traffic-related pollution.
 - **Wicken Fen**: Situated in a rural area, this station helps understand background levels of pollutants, mostly unaffected by direct urban emissions.
 
-![image](https://github.com/samehsalah/air_quality/assets/20999256/1308d593-d5c6-4d25-9d6c-5f7ea1c3e4d0)
 
